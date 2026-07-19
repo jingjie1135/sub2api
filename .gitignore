@@ -145,3 +145,5 @@ frontend/coverage/
 aicodex
 output/
 sub2api-deploy/
+# ent 工具运行 go generate ./ent 时生成的临时编译产物
+backend/ent/schema/.entc/
